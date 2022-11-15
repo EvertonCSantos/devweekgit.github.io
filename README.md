@@ -1,2 +1,2 @@
-# devweekgit.github.io
-Curriculo dev
+# Repositório para testes
+Construindo conhecimento
